@@ -3,7 +3,7 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="text-align: left; margin-right: 50px;">
 
-- Tenho 22 anos e estou no 3º semestre de Ánalise e Desenvolvimento de Sistemas =＾● ⋏ ●＾=
+- Estou no 5º semestre de Ánalise e Desenvolvimento de Sistemas =＾● ⋏ ●＾=
 - Desenvolvendo projetos pra faculdade e brincando com coisas que aprendi mais ou menos ( ˘ ³˘)
   </div>
 </div>
