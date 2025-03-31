@@ -29,6 +29,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="30" height="30"/>
 </div>
+
+<div> 
+ <table>
+  <tr>
+      <td style="margin-botton: 20px;">
+ <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fod0rr&layout=compact&langs_counts=16&theme=transparent&title_color=3225FF&text_color=3225FF" alt="Github stats"/>
+        </td>
+    </tr>
+</table>
+</div>
            
 ## Contacts
 <div style="display: flex; gap: 40px;">
