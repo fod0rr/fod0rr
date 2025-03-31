@@ -5,16 +5,16 @@
   </a>
 </div
 
-###
-I'm a Systems Analysis and Development student at the Federal Institute of Education, Science and Technology of São Paulo, volunteer in a social inclusion extension project named CACUIN (Campus Cubatão Inclusivo) and passionate about machine learning, data and geopolitics. Currently studying data analysis, science, engineering and machine learning, always seeking more knowledge!
-###
+#
+<p align="center">I'm a Systems Analysis and Development student at the Federal Institute of Education, Science and Technology of São Paulo, volunteer in a social inclusion extension project named CACUIN (Campus Cubatão Inclusivo) and passionate about machine learning, data and geopolitics. Currently studying data analysis, science, engineering and machine learning, always seeking more knowledge.
+
 
 [![Edu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fod0rr&theme=high-contrast)](https://github.com/fod0rr/github-readme-activity-graph)
 <p align="center">
 </p>
 
 
-## Skills
+## Stacks
 <div style="display: flex; justify-content: center; gap: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="30" height="30"/>
